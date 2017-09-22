@@ -1,0 +1,39 @@
+.black{
+    background-color: #EEE;
+    color: black;
+}
+@keyframes fa-spin{
+0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+}
+h1
+{
+align-self: auto;
+font-style:italic;
+border-color: green;
+text-decoration-color: green;
+}
+.top_bar {
+    height: 44px;
+    background: #292929;
+    border-top: 1px solid #2f2e2a;
+    position: relative;
+    z-index: 9999999;
+}
+
+.component2
+{
+    background: #333;
+    color: white;
+    padding: 20px;
+}
+.btn{
+    padding: 20px;
+    color: green;
+    background: yellowgreen;
+    display: block;
+    margin: 3px;
+
+}
