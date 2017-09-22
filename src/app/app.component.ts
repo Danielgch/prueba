@@ -43,7 +43,13 @@ export class AppComponent implements OnInit {
     hobby.value='';
     return false;
   }
+
+  nuevoMetodo() {
+    
+  }
+  
 }
+
 
 interface Ipost
 {
